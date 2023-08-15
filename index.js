@@ -3,7 +3,7 @@
 // @homepageURL  https://github.com/zigamacele/find-on-nyaa
 // @supportURL   https://github.com/zigamacele/find-on-nyaa
 // @version      0.1
-// @description  Changes the website icon link on Livechart to redirect to Nyaa and sorts by seeders in descending order.
+// @description  Changes website icon links on Livechart to redirect to Nyaa and sorts by seeders in descending order.
 // @author       Ziga Macele
 // @license      MIT
 // @match        https://www.livechart.me/**
